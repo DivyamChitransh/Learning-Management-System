@@ -188,7 +188,7 @@ Centralized error handling for API responses.
 ### 1️⃣ Clone Repository
 
 ```
-git clone <repository-url>
+https://github.com/DivyamChitransh/Learning-Management-System.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -225,7 +225,7 @@ npm start
 Server will run on:
 
 ```
-http://localhost:8081
+http://localhost:5000
 ```
 
 ---
